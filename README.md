@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+<h1 align="center">
+  <img src="./github-header-image.png" />
+</h1>
 
 - 😍 I love systems programming with C & Go
 - 🤔 I’m wondering whether I will see the last days of Javascript in my lifetime...
