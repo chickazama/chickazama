@@ -2,8 +2,8 @@
   <img src="./github-header-image.png" />
 </h1>
 
-- 😍 I love systems programming with C & Go
-- 🤔 I’m wondering whether I will see the last days of Javascript in my lifetime...
+<h5> 😍 I love systems programming with C & Go</h5>
+<h5> 🤔 I’m wondering whether I will see the last days of Javascript in my lifetime...</h5>
 
 ## Languages
 
