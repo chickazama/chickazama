@@ -1,6 +1,6 @@
-# Hi 👋
+<h1>Hi 👋</h1>
 
-I'm Matthew Hope, a 27 year-old programmer from London, UK!
+<h3>I'm Matthew Hope, a 27 year-old programmer from London, UK!</h3>
 
 - 😍 I love systems programming with C & Go
 - 🤔 I’m wondering whether I will see the last days of Javascript in my lifetime...
