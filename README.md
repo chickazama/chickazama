@@ -5,7 +5,8 @@
 ## About Me
 
 <h4> <span>😍</span> I love systems programming with C & Go</h4>
-<h4> <span>🤔</span> I’m wondering whether I will see the last days of Javascript in my lifetime...</h4>
+<h4> <span>👷‍♂️</span> I strictly adhere to Onion architecture</h4>
+<h4> <span>🤔</span> I’m wondering whether I will see the WebAssembly replace Javascript en masse...</h4>
 
 ## Languages
 
